@@ -1,4 +1,4 @@
-문제는 **webhacking.kr 에서 old-25** 이다.  
+문제는 **webhacking.kr 에서 Revenge old-25** 이다.  
 
 [문제 링크](http://webhacking.kr:10017/?file=hello)  
 
